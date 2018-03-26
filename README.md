@@ -29,7 +29,7 @@ TBC
 
 ## Format
 
-The format of the paper submissions has been adapted from the standard JMLR submission format described in jmlr2e.sty with a couple of changes:
+The format of the paper submissions has been adapted from the standard JMLR submission format described in [`jmlr2e.sty`](https://github.com/PAPIsdotio/proceedings-guidelines/blob/master/jmlr2e.sty) with a couple of changes:
 
 - The title of the journal has been changed to Proceedings of Machine Learning Research
 - The references to Submission and Publication dates have been removed from the header: \jmlrheading{1}{2000}{1-48}{author list}
