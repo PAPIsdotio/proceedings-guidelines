@@ -32,13 +32,13 @@ TBC
 The format of the paper submissions has been adapted from the standard JMLR submission format described in [`jmlr2e.sty`](https://github.com/PAPIsdotio/proceedings-guidelines/blob/master/jmlr2e.sty) with a couple of changes:
 
 - The title of the journal has been changed to Proceedings of Machine Learning Research
-- The references to Submission and Publication dates have been removed from the header: \jmlrheading{1}{2000}{1-48}{author list}
+- The references to Submission and Publication dates have been removed from the header: `\jmlrheading{1}{2000}{1-48}{author list}`
 
 The style and sample files are available in this repository.
 
 Other than these changes, you can follow the formatting instructions [here](http://www.jmlr.org/format/format.html).
 
-The first submission can be submitted as a PDF document, but we will request that the final submission is made as a single LaTeX .tex document (and any accompanying figures).
+The first submission can be submitted as a PDF document, but we will request that the final submission is made as a single LaTeX `.tex` document (and any accompanying figures).
 
 Accepted papers will be provided with a starting page number and volume number for PMLR before our proceedings are submitted to Proceedings of Machine Learning Research.
 
