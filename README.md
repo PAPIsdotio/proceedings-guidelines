@@ -21,7 +21,10 @@ Please use [this form](https://papisdotio.wufoo.eu/forms/xst26ab1dgwqty/) to sub
 
 ### PAPIs Europe 2018 (5-6 April 2018)
 
-TBC
+* 4 June 2018: Paper submissions due
+* 25 June 2018: First round of feedback due
+* 9 July 2018: Submissions due incorporating first round of feedback
+* 23 July 2018: Complete editor reviews due
 
 ### PAPIs '17 (24-25 October 2017)
 
