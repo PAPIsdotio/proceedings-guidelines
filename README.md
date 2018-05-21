@@ -34,14 +34,19 @@ Please use [this form](https://papisdotio.wufoo.eu/forms/xst26ab1dgwqty/) to sub
 
 ## Format
 
-The format of the paper submissions has been adapted from the standard JMLR submission format described in [`jmlr2e.sty`](https://github.com/PAPIsdotio/proceedings-guidelines/blob/master/jmlr2e.sty) with a couple of changes:
+Authors should use the jmlr class with the 'pmlr' option:
 
-- The title of the journal has been changed to Proceedings of Machine Learning Research
-- The references to Submission and Publication dates have been removed from the header: `\jmlrheading{1}{2000}{1-48}{author list}`
+\documentclass[pmlr]{jmlr}
 
-The style and sample files are available in this repository.
+Full details of the jmlr class and sample files can be found here:
 
-Other than these changes, you can follow the formatting instructions [here](http://www.jmlr.org/format/format.html).
+https://ctan.org/tex-archive/macros/latex/contrib/jmlr?lang=en
+
+Authors should format use the sample file jmlrwcp-sample.tex (included here) as
+a guideline for formatting their article. The jmlr.cls file is also included
+for your convenience.
+
+The style and sample files are available in this repository. Detailed information about the jmlr class is available in jmlr.pdf.
 
 The first submission can be submitted as a PDF document, but we will request that the final submission is made as a single LaTeX `.tex` document (and any accompanying figures).
 
@@ -50,3 +55,5 @@ Accepted papers will be provided with a starting page number and volume number f
 ## Release
 
 Please return the [release form](https://github.com/PAPIsdotio/proceedings-guidelines/blob/master/release.pdf) with your submission.
+
+
